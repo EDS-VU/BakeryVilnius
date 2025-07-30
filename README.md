@@ -2,7 +2,7 @@
 
 **Authors:** Pooya Mers, Dinh Duy Phan, Rongyue Hua, Dan Ni Zhao, Zhenhua Yuan  
 **Date:** June 2024  
-**Course:** Academic Skill and Probability Inference  
+**Course:** Academic Skills and Probability Inference  
 
 ## Overview  
 This project applies the classical **Newsvendor Problem** framework to optimize daily bread production for a bakery chain in Vilnius, Lithuania. By balancing the costs of overstocking (waste) and understocking (lost sales), we estimate the **optimal order quantity** using both **parametric** and **non‑parametric** methods.  
