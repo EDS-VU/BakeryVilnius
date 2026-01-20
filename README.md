@@ -19,14 +19,6 @@ The bakery chain wants to understand:
 ## Approach  
 - Developed an extended profit function incorporating selling price, production cost, clearance price, and shipping cost.  
 - Derived the optimal order quantity  
-  
-
-\[
-  Q^* = F^{-1}\left(\frac{c_u}{c_o + c_u}\right)
-  \]
-
-  
-  where \(c_u\) and \(c_o\) represent underage and overage costs.  
 - Compared **parametric (Normal / Log‑normal)** and **non‑parametric (order‑statistic)** estimators using **Monte Carlo simulations** across multiple sample sizes and service levels.  
 - Conducted empirical analysis on four stores (Main Street A & B, Station A & B), including:  
   - descriptive statistics  
