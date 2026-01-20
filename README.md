@@ -12,9 +12,9 @@ The analysis combines theoretical modeling, simulation studies, and real‑world
 Perishable goods such as bread must be produced in the right quantity: too much leads to waste, too little leads to lost revenue.  
 The bakery chain wants to understand:
 
-1. **How to estimate the optimal order quantity \(Q^*\)** under different assumptions about demand.  
-2. **How parametric and non‑parametric estimators compare** in accuracy and robustness.  
-3. **How price adjustments should be made** when production costs increase.
+1. **How to estimate the optimal order quantity \(Q^*\)** under different assumptions about demand?  
+2. **How do parametric and non‑parametric estimators compare** in accuracy and robustness?
+3. **How price adjustments should be made** when production costs increase?
 
 ## Approach  
 - Developed an extended profit function incorporating selling price, production cost, clearance price, and shipping cost.  
